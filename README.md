@@ -1,4 +1,4 @@
-####Distributed Library Management System (DLMS) using Java RMI
+#Distributed Library Management System (DLMS) using Java RMI
 
 In this assignment, you are going to design and implement a Distributed Library Management System (DLMS) for a group of libraries: a distributed system used by library managers to manage the information about the items available in the libraries and library users to borrow or return items across the libraries.
 
