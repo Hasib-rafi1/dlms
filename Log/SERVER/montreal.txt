@@ -1,0 +1,5 @@
+DATE: 2019-02-20 01:39:27 PMAction: Borrowed an Item: CON6231 | Parameters: USER ID: MONU1234/ Item ID: CON6231/ Number OF Day: 5 | Action Status: Success | Resonse: true
+DATE: 2019-02-20 01:39:57 PMAction: Borrowed an Item: MCG6231 | Parameters: USER ID: MONU1234/ Item ID: MCG6231/ Number OF Day: 4 | Action Status: Success | Resonse: true
+DATE: 2019-02-20 01:40:19 PMAction: Borrowed an Item: CON7654 | Parameters: USER ID: MONU1234/ Item ID: CON7654/ Number OF Day: 8 | Action Status: Failed | Resonse: false
+DATE: 2019-02-20 01:41:28 PMAction: Assked for waiting List: CON7654 | Parameters: USER ID: MONU1234/ Item ID: CON7654 | Action Status: Success | Resonse: true
+DATE: 2019-02-20 01:43:28 PMAction: return an Item: MCG6231 | Parameters: USER ID: MONU1234/ Item ID: MCG6231 | Action Status: Success | Resonse: true

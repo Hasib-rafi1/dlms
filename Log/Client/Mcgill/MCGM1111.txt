@@ -1,0 +1,9 @@
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='22'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='20'}}
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='22'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='19'}}
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='22'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='19'}}
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='22'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='19'}}
+Action: ADD ITEM MCG1010 | Resonse: ITEM ADDED: true
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='22'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='29'}}
+Action: ADD ITEM MCG6231 | Resonse: ITEM ADDED: true
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='22'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='20'}, MCG6231=Item{itemName='DISRIBUTED', itemQty='1'}}
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='22'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='20'}, MCG6231=Item{itemName='DISRIBUTED', itemQty='0'}}

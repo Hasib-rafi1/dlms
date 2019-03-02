@@ -1,0 +1,5 @@
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='22'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='20'}}
+Action: REMOVE ITEM MCG1011 | Resonse: ITEM REMOVED: true
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='20'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='20'}}
+Action: ADD ITEM MCG1011 | Resonse: ITEM ADDED: true
+Action: List of Items  | Resonse: {MCG1011=Item{itemName='Absoulate Java', itemQty='21'}, MCG1012=Item{itemName='Data Structure', itemQty='10'}, MCG1010=Item{itemName='Distributed System', itemQty='20'}}

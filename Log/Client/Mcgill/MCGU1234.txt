@@ -1,0 +1,11 @@
+Action: Borrowed an Item: MCG1011 | Resonse: true
+Action: Borrowed an Item: CON1010 | Resonse: true
+Action: find an Item: ABSOULATE JAVA | Resonse: MCG1011=Item{itemName='Absoulate Java', itemQty='20'}
+Action: find an Item: ABSOULATE JAVA | Resonse: MON1011=Item{itemName='Absoulate Java', itemQty='22'}
+Action: find an Item: ABSOULATE JAVA | Resonse: CON1011=Item{itemName='Absoulate Java', itemQty='11'}
+Action: return an Item: CON1010 | Resonse: true
+Action: return an Item: MCG1011 | Resonse: true
+Action: Borrowed an Item: MCG6231 | Resonse: false
+Action: Assked for waiting List: MCG6231 | Resonse: true
+Action: Borrowed an Item: MCG6231 | Resonse: true
+Action: Borrowed an Item: MCG6231 | Resonse: false
